@@ -25,5 +25,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)Clear_touch:(id)sender {
+}
+
+- (IBAction)Submit_touch:(id)sender {
+}
+
+- (IBAction)Modify_touch:(id)sender {
+}
 
 @end
